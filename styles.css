@@ -1,0 +1,81 @@
+body{
+    background-image:url(it.jpeg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+nav{
+    padding-left: 50%;
+}
+nav a{
+    margin: 3px;
+    font-size: 20px;
+    justify-content: space-around;
+    color:white;
+    
+}
+/* a:hover{
+    background-color:rgb(231, 31, 231) ;
+} */
+.card1{
+    width: 350px;
+    height:480px;
+    border: 1px solid white;
+    margin:30px;
+    background-color: rgba(255, 255, 255, 0.808);
+}
+.card1 img{
+    width:350px;
+    height:480px;
+}
+.container{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+    padding-left: 30%;
+}
+h1{
+    color:#044f49;
+    padding-left: 50px;
+    padding-top: 50px;
+   
+}
+h2{
+    color:#2642d9;
+    padding-left: 8px;
+}
+
+button{
+    width:80px;
+    height:30px;
+    border-radius: 40px;
+    background-color: #57b748;
+    margin-left: 150px;
+}
+button:hover{
+    background-color: #362dd2;
+}
+.card img{
+    width: 440px;
+}
+.button{
+    display: flex;
+    flex-direction: row;
+    padding-left: 20%p;;
+}
+.button button{
+    height: 70px;
+    width: 150px;
+}
+h3{
+    color:white;
+    padding-left: 30%;
+    margin-top: 40px;
+}
+
+.button button p{
+    color:white;
+}
+.h2 h2{
+    color: white;
+    padding-left: 30%;
+}
